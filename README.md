@@ -1,10 +1,14 @@
 # Pokedex-guide projesi
+
 -Bu proje için gereken özen gösterilmiştir.
+
 -Bütün teknik billgiler kullanılmıştır.
+
 # Kullanılan Teknolojiler 
+
 HTML,CSS,JV
 
-#Ekran Kaydı
+# Ekran Kaydı
 
 
 
