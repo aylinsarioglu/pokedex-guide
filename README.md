@@ -6,7 +6,7 @@
 
 # Kullanılan Teknolojiler 
 
-HTML,CSS,JV
+HTML,CSS,JS
 
 # Ekran Kaydı
 
